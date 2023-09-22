@@ -1,4 +1,4 @@
-package me.songha.redis.sample;
+package me.songha.redis.redistemplate;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
