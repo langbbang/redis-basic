@@ -1,4 +1,4 @@
-package me.songha.redis.sample;
+package me.songha.redis.redistemplate;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
@@ -8,7 +8,7 @@ import java.util.Set;
 
 @RestController
 @RequiredArgsConstructor
-@RequestMapping("/test")
+@RequestMapping("/sample")
 public class StringRedisController {
 
     private final StringRedisService stringRedisService;

@@ -1,4 +1,4 @@
-package me.songha.redis.sample;
+package me.songha.redis.redistemplate;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.redis.core.StringRedisTemplate;

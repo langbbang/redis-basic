@@ -1,4 +1,4 @@
-package me.songha.redis.sample;
+package me.songha.redis.redistemplate;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
